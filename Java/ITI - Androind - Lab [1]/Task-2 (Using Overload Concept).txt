@@ -1,0 +1,32 @@
+public class JavaMath {
+
+    // sum() method
+    public int sum(int x, int y) {
+        return x + y;
+    }
+    public double sum(double x, double y) {
+        return x + y;
+    }
+    public float sum(float x, float y) {
+        return x + y;
+    }
+    public long sum(long x, long y) {
+        return x + y;
+    }
+
+
+    // subtract() method
+    public int subtract(int x, int y) {
+        return x - y;
+    }
+    public double subtract(double x, double y) {
+        return x - y;
+    }
+    public float subtract(float x, float y) {
+        return x - y;
+    }
+    public long subtract(long x, long y) {
+        return x - y;
+    }
+
+}
