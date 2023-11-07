@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Data Storage</string>
-    <string name="mobile_number">رقم الموبايل</string>
-    <string name="message">رسالة</string>
-    <string name="reset">إعادة ضبط</string>
-    <string name="close">غلق</string>
-</resources>
